@@ -15,3 +15,5 @@ Dois motores de passo, atuando como atuadores do sistema.
 
 
 A aplicação consiste em detectar o ângulo de maior aproveitamento da luz solar e ajustar automaticamente a base do sensor. Para isso, o sistema calcula o ângulo correto e movimenta os motores nos eixos X e Y, garantindo o alinhamento adequado para otimizar a captação da energia solar.
+
+O sensor deve ser colocado em cima do motor de passos.
